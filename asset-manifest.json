@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JeffsGitHubAccount/comp2156/static/css/main.f48a98bf.css",
+    "main.js": "/JeffsGitHubAccount/comp2156/static/js/main.6ae53e25.js",
+    "index.html": "/JeffsGitHubAccount/comp2156/index.html",
+    "main.f48a98bf.css.map": "/JeffsGitHubAccount/comp2156/static/css/main.f48a98bf.css.map",
+    "main.6ae53e25.js.map": "/JeffsGitHubAccount/comp2156/static/js/main.6ae53e25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48a98bf.css",
+    "static/js/main.6ae53e25.js"
+  ]
+}
