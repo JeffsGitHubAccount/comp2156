@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "comp2156 lab exercise",
   "main": "index.js",
-  "homepage": "https://JeffsGitHubAccount.github.io/comp2156"
+  "homepage": "https://jeffsgithubaccount.github.io/comp2156/",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -15,7 +16,6 @@
   "keywords": [],
   "author": "Jeffery Walsh",
   "license": "ISC",
-  "homepage": "https://github.com/JeffsGitHubAccount/comp2156",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^18.2.0",
